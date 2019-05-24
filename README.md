@@ -11,3 +11,6 @@ The used simulator is RB3Simulator.java that implements CSCProblemAndOutInMapInt
 The required activation functions and other tools are located in de/cogmod/utilities.
 
 In case of questions, please reach Dania Humaidan at dania.humaidan@uni-tuebingen.de
+
+Hava a look at our YouTube video of REPRISE controlling multiple vehicles and transporting objects in a goal-directed (anticipatory, active-inference-based) manner: 
+https://www.youtube.com/watch?v=KDK94qOaaTE&t=7s
